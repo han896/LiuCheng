@@ -88,8 +88,14 @@
         <mxCell id="TACAZottXMF5NRmoX5qq-27" value="输入用户项目经历" style="whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="840" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TACAZottXMF5NRmoX5qq-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TACAZottXMF5NRmoX5qq-30" target="TACAZottXMF5NRmoX5qq-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TACAZottXMF5NRmoX5qq-30" value="根据项目经历及公司所需技能润色项目经历、向权重较高的关键技术靠拢，哪怕没有尽量虚构一点相近的从而使工作经历与公司重点需要技能靠拢" style="whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="930" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="TACAZottXMF5NRmoX5qq-32" value="根据润色的知识点网页搜索面试题及答案AI分析面试题权重" style="whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="955" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
